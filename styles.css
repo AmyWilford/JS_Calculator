@@ -1,0 +1,46 @@
+* {
+    font-family:sans-serif;
+    font-size: 20px;
+    background-color: orangered;
+    color: oldlace;
+}
+
+table, td, tr{
+    margin: 50px auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #1D263B;
+  }
+.title {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 900;
+}
+input[type=button]{
+    width: 50px;
+    margin: 5px;
+    padding: 10px 10px;
+    border-radius: 50%;
+    border: none;
+    color: orangered;
+    background-color: oldlace;
+}
+
+input[type=button]:hover {
+    background-color: palegoldenrod;
+}
+
+input[type=text] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0px;
+    color: orangered;
+    background-color: oldlace;
+    border: none;
+}
+.colspan2{
+    width: 110px !important;
+  
+}
+
